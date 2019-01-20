@@ -73,6 +73,10 @@ const lookup = {
   // Arrows
   "<=>": "⇔",
   "=>": "⇒",
+  left: "⇦",
+  up: "⇧",
+  right: "⇨",
+  down: "⇩",
 
   // Subscripts
   _0: "₀",
